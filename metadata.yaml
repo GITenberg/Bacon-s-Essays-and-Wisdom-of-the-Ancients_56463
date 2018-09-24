@@ -1,0 +1,34 @@
+_repo: Bacon-s-Essays-and-Wisdom-of-the-Ancients_56463
+_version: 0.0.1
+contributor:
+  contributors:
+  - agent_name: Spiers, A.
+    gutenberg_agent_id: '48859'
+    url: http://www.gutenberg.org/2009/agents/48859
+  - agent_name: Montagu, B.
+    gutenberg_agent_id: '48860'
+    url: http://www.gutenberg.org/2009/agents/48860
+creator:
+  author:
+    agent_name: Bacon, Francis
+    aliases:
+    - Verulam, Francis Bacon
+    - St. Albans, Francis Bacon, Viscount
+    birthdate: 1561
+    deathdate: 1626
+    gutenberg_agent_id: '296'
+    url: http://www.gutenberg.org/2009/agents/296
+    wikipedia: http://en.wikipedia.org/wiki/Francis_Bacon
+description: ''
+gutenberg_issued: '2018-01-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56463'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Bacon's Essays and Wisdom of the Ancients
+url: http://www.gutenberg.org/ebooks/56463
