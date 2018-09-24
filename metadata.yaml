@@ -8,6 +8,9 @@ contributor:
   - agent_name: Montagu, B.
     gutenberg_agent_id: '48860'
     url: http://www.gutenberg.org/2009/agents/48860
+covers:
+- cover_type: archival
+  image_path: 56463-h/images/cover.jpg
 creator:
   author:
     agent_name: Bacon, Francis
@@ -20,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/296
     wikipedia: http://en.wikipedia.org/wiki/Francis_Bacon
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56463#Bacon-s-Essays-and-Wisdom-of-the-Ancients
 gutenberg_issued: '2018-01-29'
 gutenberg_type: Text
 identifiers:
